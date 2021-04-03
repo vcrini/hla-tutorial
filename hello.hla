@@ -1,0 +1,6 @@
+program helloWorld;
+#include( "stdlib.hhf" );
+
+begin helloWorld;
+	stdout.put ("Ciao, Mondo del linguaggio assembly", nl);
+end helloWorld;
